@@ -36,9 +36,11 @@ body{
     height: 80px;
     cursor: pointer;
     display: flex;
-   
-
     
+}
+.active>img{
+  width: 120px;
+  height:80px;
 }
 .navbar>a{
     font-size: 18px;
