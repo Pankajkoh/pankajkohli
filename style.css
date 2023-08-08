@@ -146,6 +146,7 @@ color: #ec7f37 ;
     background-color: #ec7f37;
     border-radius: 20px 0 20px 0;
     margin: 0 0 0 10%;
+    line-height: 45px;
 }
 .pera>h3{
    padding:10px ;
@@ -215,7 +216,7 @@ color: #ec7f37 ;
     background-color: #ec7f37;
     border-radius: 20px 0 20px 0;
     width: 90%;
-    line-height: 15px;
+    line-height: 26px;
     
 }
 .des>h3{
