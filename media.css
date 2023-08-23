@@ -1,5 +1,5 @@
 /* `sm` applies to xx-small devices (portrait phones, less than 576px) */
-@media (min-width: 314px)and  (max-width: 399.98px) { 
+@media (min-width: 314px)and  (max-width: 500.98px) { 
     .header {
         position: fixed;
         top: 0px;
@@ -201,7 +201,7 @@
 
 
 /* `sm` applies to x-small devices (portrait phones, less than 576px) */
-@media (min-width: 400px)and  (max-width: 575.98px) { 
+@media (min-width: 500px)and  (max-width: 800.98px) { 
     .header {
         width: 99%;
         
