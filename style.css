@@ -13,7 +13,9 @@
 body{
     background: #393939;
     color:#ffffff;
-     
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  } 
 }
 .header{
     position: fixed;
