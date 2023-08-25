@@ -54,7 +54,7 @@ body{
     transition: 0.5s;
     
 }
-.navbar>a:hover,.navbar>a.active{
+.navbar a:hover, .navbar a.active{
     color: #ec7f37 !important ;
 }
 .Home{
