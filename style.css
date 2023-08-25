@@ -55,7 +55,7 @@ body{
     
 }
 .navbar>a:hover,.navbar>a.active{
-    color: #ec7f37 ;
+    color: #ec7f37 !important ;
 }
 .Home{
     position: relative;
